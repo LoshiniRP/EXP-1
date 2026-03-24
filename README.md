@@ -52,7 +52,7 @@ b.  KCL:
 a.   KVL:
 
 <img width="988" height="567" alt="Screenshot 2026-03-24 131642" src="https://github.com/user-attachments/assets/99afd43d-6a40-44cf-9575-59e02eb9d710" />
-![Uploading image.png…]()
+<img width="1346" height="632" alt="image" src="https://github.com/user-attachments/assets/5a996258-1c75-4285-b661-d479df115325" />
 
 
 b.  KCL:
