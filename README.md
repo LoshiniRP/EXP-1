@@ -52,12 +52,14 @@ b.  KCL:
 a.   KVL:
 
  <img width="988" height="567" alt="Screenshot 2026-03-24 131642" src="https://github.com/user-attachments/assets/99afd43d-6a40-44cf-9575-59e02eb9d710" />
-![KVL](https://github.com/user-attachments/assets/28766089-3f66-40b7-bee9-552a0c8da641)
+![KCL](https://github.com/user-attachments/assets/76e2d823-cbad-43d7-8684-155e1952074d)
+
 
 b.  KCL:
 
 <img width="634" height="646" alt="Screenshot 2026-03-24 131708" src="https://github.com/user-attachments/assets/1588fb93-7341-4384-9bc6-853adbf15d02" />
-![KCL](https://github.com/user-attachments/assets/e70b94ba-78c3-4285-8382-4919e0e13acc) 
+
+
 
 ## CALCULATION:
 
