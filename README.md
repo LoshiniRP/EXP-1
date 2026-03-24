@@ -70,6 +70,7 @@ a.   KVL:
 b.  KCL:
 
 <img width="433" height="504" alt="Screenshot 2026-03-24 131819" src="https://github.com/user-attachments/assets/de5ff476-298a-466b-bccd-b606a23fb0d0" />
+
 <img width="356" height="165" alt="Screenshot 2026-03-24 131826" src="https://github.com/user-attachments/assets/9c46050f-353a-4cb2-9423-32e16926df00" />
 
 ## TABULATION:
@@ -77,6 +78,7 @@ b.  KCL:
 a.   KVL:
 
 <img width="1074" height="400" alt="Screenshot 2026-03-24 131653" src="https://github.com/user-attachments/assets/3057790a-d70e-4e22-a314-cecbd50b77c7" />
+
 
 b.  KCL:
 
